@@ -1,5 +1,7 @@
 Project: Complex Command Line Todo List
+
 By: Pranav Rao
+
 Date: 02/15/2020
 
 Purpose for this program was to write a complex todo list. It will be able to generate new lists, delete lists, mark lists, complete list from the command line. It will also be ablet get in a file and write to it as well as commanding the function of the todo list on the file.  
